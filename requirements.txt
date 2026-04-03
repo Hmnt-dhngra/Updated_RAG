@@ -18,6 +18,10 @@ openai
 langchain-google-genai
 google-generativeai
 
+# Ollama
+langchain-ollama
+
+
 # HuggingFace (optional - for local embeddings)
 langchain-huggingface
 sentence-transformers
